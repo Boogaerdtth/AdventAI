@@ -1,5 +1,6 @@
 // Prompt: Bouw een count down klok voor me, het moet een klok zijn die bestaat uit dagen, uren, minuten en seconden. 
 // De countdown waar de klok naar toe moet is kerstavond. Dus 24 december om 00:00 Amsterdam tijd. De klok moet live aftellen naar dat moment
+// 2e prompt: maak het aantrekkelijker
 
 <!DOCTYPE html>
 <html lang="nl">
